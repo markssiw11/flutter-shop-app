@@ -1,0 +1,224 @@
+{
+  "result": [
+    {
+      "id": 19,
+      "name": "VIÊN NANG ĐÔNG TRÙNG HẠ THẢO BANIKHA",
+      "imgUrl": "https://imgur.com/uKx95J9.png",
+      "price": "750000",
+      "options": [
+        {
+          "id": 61,
+          "giftId": 28,
+          "productId": 19,
+          "percentDiscount": 0,
+          "quantity": 3,
+          "voucherType": "2",
+          "createdAt": "2021-05-30T04:25:36.962Z",
+          "updatedAt": "2021-05-30T04:25:36.962Z",
+          "giftName": "hộp viên nang Banikha",
+          "giftImgUrl": "https://imgur.com/eVvTq7L.png"
+        },
+        {
+          "id": 101,
+          "giftId": 64,
+          "productId": 19,
+          "percentDiscount": 0,
+          "quantity": 4,
+          "voucherType": "2",
+          "createdAt": "2021-06-06T12:05:22.435Z",
+          "updatedAt": "2021-06-06T12:05:22.435Z",
+          "giftName": "hộp nước đông trùng hạ thảo Banikha",
+          "giftImgUrl": "https://imgur.com/UfDQAtl.png"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "ĐÔNG TRÙNG HẠ THẢO QUẢ THỂ TƯƠI",
+      "imgUrl": "https://imgur.com/LYbHD6J.png",
+      "price": "2000000",
+      "options": []
+    },
+    {
+      "id": 22,
+      "name": "ĐÔNG TRÙNG HẠ THẢO NGUYÊN CON - THỂ TƯƠI",
+      "imgUrl": "https://imgur.com/uQvn73J.png",
+      "price": "8000000",
+      "options": []
+    },
+    {
+      "id": 28,
+      "name": "QUẢ THỂ ĐÔNG TRÙNG HẠ THẢO SẤY ĐỐI LƯU",
+      "imgUrl": "https://imgur.com/k7dXLSy.png",
+      "price": "1490000",
+      "options": [
+        {
+          "id": 103,
+          "giftId": 28,
+          "productId": 28,
+          "percentDiscount": 0,
+          "quantity": 1,
+          "voucherType": "2",
+          "createdAt": "2021-06-16T05:43:03.488Z",
+          "updatedAt": "2021-06-16T05:43:03.488Z",
+          "giftName": "hộp viên nang Banikha",
+          "giftImgUrl": "https://imgur.com/eVvTq7L.png"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "ĐÔNG TRÙNG HẠ THẢO NGUYÊN CON -THỂ KHÔ (HỘP 3 LỌ)",
+      "imgUrl": "https://imgur.com/1yRnR7d.png",
+      "price": "3900000",
+      "options": [
+        {
+          "id": 97,
+          "giftId": 27,
+          "productId": 25,
+          "percentDiscount": 0,
+          "quantity": 1,
+          "voucherType": "2",
+          "createdAt": "2021-06-06T12:00:02.348Z",
+          "updatedAt": "2021-06-06T12:00:02.348Z",
+          "giftName": "hộp bổ thận Banikha",
+          "giftImgUrl": "https://imgur.com/ydgNFhF.png"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "VIÊN BỔ THẬN  ĐÔNG TRÙNG HẠ THẢO BANIKHA",
+      "imgUrl": "https://imgur.com/UZKBwh3.png",
+      "price": "950000",
+      "options": [
+        {
+          "id": 60,
+          "giftId": 27,
+          "productId": 26,
+          "percentDiscount": 0,
+          "quantity": 3,
+          "voucherType": "2",
+          "createdAt": "2021-05-09T08:59:36.526Z",
+          "updatedAt": "2021-05-09T08:59:36.526Z",
+          "giftName": "hộp bổ thận Banikha",
+          "giftImgUrl": "https://imgur.com/ydgNFhF.png"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "VIÊN BỔ PHẾ ĐÔNG TRÙNG HẠ THẢO BANIKHA",
+      "imgUrl": "https://imgur.com/LLogaZB.png",
+      "price": "900000",
+      "options": [
+        {
+          "id": 63,
+          "giftId": 29,
+          "productId": 27,
+          "percentDiscount": 0,
+          "quantity": 3,
+          "voucherType": "2",
+          "createdAt": "2021-06-02T03:25:02.380Z",
+          "updatedAt": "2021-06-02T03:25:02.380Z",
+          "giftName": "hộp bổ phế Banikha",
+          "giftImgUrl": "https://imgur.com/iOY14KB.png"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "ĐÔNG TRÙNG HẠ THẢO NGUYÊN CON -THỂ KHÔ (HỘP 5 LỌ)",
+      "imgUrl": "https://imgur.com/1yRnR7d.png",
+      "price": "6400000",
+      "options": []
+    },
+    {
+      "id": 30,
+      "name": "NƯỚC ĐÔNG TRÙNG HẠ THẢO BANIKHA",
+      "imgUrl": "https://imgur.com/UfDQAtl.png",
+      "price": "1250000",
+      "options": [
+        {
+          "id": 98,
+          "giftId": 64,
+          "productId": 30,
+          "percentDiscount": 0,
+          "quantity": 3,
+          "voucherType": "2",
+          "createdAt": "2021-06-06T12:03:16.555Z",
+          "updatedAt": "2021-06-06T12:03:16.555Z",
+          "giftName": "hộp nước đông trùng hạ thảo Banikha",
+          "giftImgUrl": "https://imgur.com/UfDQAtl.png"
+        },
+        {
+          "id": 99,
+          "giftId": 28,
+          "productId": 30,
+          "percentDiscount": 0,
+          "quantity": 2,
+          "voucherType": "2",
+          "createdAt": "2021-06-06T12:03:45.568Z",
+          "updatedAt": "2021-06-06T12:03:45.568Z",
+          "giftName": "hộp viên nang Banikha",
+          "giftImgUrl": "https://imgur.com/eVvTq7L.png"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "TRÀ ĐÔNG TRÙNG HẠ THẢO BANIKHA",
+      "imgUrl": "https://imgur.com/v2OMwJf.png",
+      "price": "180000",
+      "options": [
+        {
+          "id": 59,
+          "giftId": 26,
+          "productId": 21,
+          "percentDiscount": 0,
+          "quantity": 3,
+          "voucherType": "2",
+          "createdAt": "2021-05-09T08:57:39.831Z",
+          "updatedAt": "2021-05-09T08:57:39.831Z",
+          "giftName": "trà túi lọc Banikha",
+          "giftImgUrl": "https://imgur.com/pl7abFH.png"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "ĐÔNG TRÙNG HẠ THẢO QUẢ THỂ KHÔ SẤY LẠNH",
+      "imgUrl": "https://imgur.com/YU3pfpd.png",
+      "price": "3300000",
+      "options": [
+        {
+          "id": 64,
+          "giftId": 30,
+          "productId": 24,
+          "percentDiscount": 0,
+          "quantity": 2,
+          "voucherType": "2",
+          "createdAt": "2021-06-02T04:39:59.708Z",
+          "updatedAt": "2021-06-02T04:39:59.708Z",
+          "giftName": "hộp quả thể khô sấy lạnh ",
+          "giftImgUrl": "https://imgur.com/ODNbsGR.png"
+        },
+        {
+          "id": 102,
+          "giftId": 64,
+          "productId": 24,
+          "percentDiscount": 0,
+          "quantity": 1,
+          "voucherType": "2",
+          "createdAt": "2021-06-06T12:07:11.802Z",
+          "updatedAt": "2021-06-06T12:07:11.802Z",
+          "giftName": "hộp nước đông trùng hạ thảo Banikha",
+          "giftImgUrl": "https://imgur.com/UfDQAtl.png"
+        }
+      ]
+    }
+  ],
+  "message": "Get products success",
+  "code": 200,
+  "success": true
+}
