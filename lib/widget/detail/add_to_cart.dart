@@ -7,7 +7,8 @@ import 'package:shop_app/models/catalog_model.dart';
 class AddToCart extends StatelessWidget {
   final Item product;
   final num count;
-  const AddToCart({Key? key, required this.product, required this.count}) : super(key: key);
+  const AddToCart({Key? key, required this.product, required this.count})
+      : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -27,6 +28,15 @@ class AddToCart extends StatelessWidget {
                 style: style,
                 onPressed: () {
                   _cartController.addToCart(product, count);
+                  ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
+                    content: Text('add product to cart'),
+                    duration: const Duration(milliseconds: 1000),
+                    padding: const EdgeInsets.symmetric(
+                      horizontal: 8.0, // Inner padding for SnackBar content.
+                    ),
+                    behavior: SnackBarBehavior.floating,
+                    // shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
+                  ));
                 },
                 child: const Text('BUY NOW'),
               ),

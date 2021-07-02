@@ -73,8 +73,10 @@ Hero mainImage(tag, product) {
       child: ClipRRect(
           borderRadius: BorderRadius.circular(4.0),
           child: CachedNetworkImage(
-            placeholder: (context, url) => CircularProgressIndicator(
+            placeholder: (context, url) => Center(
+              child: CircularProgressIndicator(
               strokeWidth: 3,
+            ),
             ),
             imageUrl: product,
             width: 100,
